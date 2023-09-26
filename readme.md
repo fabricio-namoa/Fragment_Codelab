@@ -4,7 +4,7 @@
 <br />
 <div align="center">
 
-<h3 align="center">Monkey Food</h3>
+<h3 align="center">Fragment</h3>
 
   <p align="center">
     Aplicativo para realizar pesquisa no google
